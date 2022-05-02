@@ -1,0 +1,6 @@
+# Práctica 1 
+***María Cayuela***
+## Comentario sobre la subida del SMI (*elDiario.es*)
+El gráfico en cuestión muestra la evolución del Salario Mínimo Interprofesional (SMI) en España, desde el año 1963 hasta la actualidad. [Publicado en elDiario.es](https://www.eldiario.es/sociedad/ultima-hora-coronavirus-actualidad-politica-10-febrero_6_8733684_1084582.html), **los datos abarcan desde 1963 y culminan en 2022, la actualidad**. No obstante, en el eje de las *x* aparecen los años de cinco en cinco, pero empieza en 1965 (dos años más tarde del primer dato) y termina en 2020 (dos años antes), aunque deja un mínimo espacio en los márgenes que da a entender que hay datos antes y después de estas dos fechas. Eso sí, no aparece ningún marcador vertical perpendicular a la línea de las *x* que señale el punto exacto del año. El eje de las *y* abarca desde los 0€ hasta los 1000€. 
+
+En este gráfico sí que aparecen las etiquetas de datos, pero solo al poner el cursor encima de la línea, y se visualiza el año y el importe exacto del SMI. En este caso, **la línea que marca la evolución tiene apariencia de *diente de sierra***, lo que permite separar muy bien cada subida y cada año. Por último, en el subtítulo del gráfico aparece resaltado en amarillo "*nueva subida*", que se traduce en que la columna de 2022 también está resaltada para mayor claridad.
