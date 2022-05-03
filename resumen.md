@@ -55,7 +55,7 @@ Si hemos hecho algún *commit* antes de hacer estas configuraciones, tenemos que
 
 
 
-## Configuración de un programa de edición de texto
+## 3. Configuración de un programa de edición de texto
 
 Podemos editar el comportamiento de nuestro editor de texto `nano` a través de su archivo de configuración. En nuestro caso, vamos a hacer que se ajuste el texto a la resolución de la pantalla y que aparezca el número de las líneas para poder visualizar y localizar mejor el contenido del archivo. Para ello, lo editamos de la siguiente forma: `nano $HOME/.nanorc` y ponemos lo siguiente:
 
@@ -70,7 +70,7 @@ Podemos editar el comportamiento de nuestro editor de texto `nano` a través de 
 Con Cygwin el método es algo diferente. Tenemos que copiar el archivo de configuración de `nano` que se sitúa en el directorio `/etc`. Lo copiamos a nuestro directorio *home* con `cp /etc/nanorc .nanorc`, y lo editamos: `nano .nanorc`. 
 Buscamos con CTRL + W “linenumbers” (sin comillas), y en su línea (`# set linenumbers`) le quitamos la #. Volvemos a buscar con CTRL + W “softwrap” (sin las comillas), y en su línea (`# set softwrap`) le quitamos la #. Guardamos con CTRL + O y salimos con CTRL + X.
 
-## Configuración y funcionamiento de un gestor de paquetes/programas del emulador de la terminal
+## 4. Configuración y funcionamiento de un gestor de paquetes/programas del emulador de la terminal
 
 Un gestor de paquetes, tal y como se explica en la Wikipedia, «es una colección de herramientas que sirven para automatizar el proceso de instalación, actualización, configuración y eliminación de paquetes de software», principalmente para instalar programas y herramientas en sistemas Unix como GNU/Linux. En el caso de Ubuntu es `apt` y Cygwin tiene el suyo propio, `apt-cyg`, que no viene de fábrica con el programa, a diferencia del primero.
 
@@ -78,7 +78,7 @@ El proceso para instalar `apt-cyg` está disponible en la documentación de su [
 
 Luego podremos usarlo para instalar herramientas, como `nano`, mediante la sintaxis `apt-cyg install herramienta`, como `apt-cyg install nano`.
 
-## Versión del lenguaje de SHELL utilizado
+## 5. Versión del lenguaje de SHELL utilizado
 
 Para comprobar la versión del lenguaje de Shell utilizado, tenemos dos comandos que nos pueden indicar la misma, tanto para Cygwin como para WSL. Podemos usar la variable de entorno `$0`, que la consultaremos con `echo $0` y nos devolverá qué Shell utilizamos, que en ambos casos es Bash. 
 
@@ -108,11 +108,11 @@ Para comprobar la versión de Bash, tenemos dos opciones (tanto en WSL como en C
 `bash --version`
 `GNU bash, version 5.0.17(1)-release (x86_64-pc-linux-gnu)`
 
-## Valor de la variable de entorno PATH
+## 6. Valor de la variable de entorno PATH
 
 Para consultar la variable de entorno `$PATH`, lo hacemos con `echo $PATH`. La terminal nos devolverá las rutas en las que se encuentran los programas instalados que puede ejecutar la terminal. Separados por dos puntos (`:`), aparecen los directorios donde la terminal va a buscar los programas para ejecutarlos cuando lo indiquemos así a través de los comandos. 
 
-## Comandos utilizados y ejemplos.
+## 7. Comandos utilizados y ejemplos
 
 *Los comandos tienen la siguiente estructura: comando / opciones / argumentos*
 
