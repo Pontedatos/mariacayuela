@@ -13089,7 +13089,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>En esta práctica vamos a utilizar los datos provenientes del portal web del <a href="https://www.zaragoza.es/sede/">Ayuntamiento de Zaragoza</a>, con la finalidad de crear un mapa de dicha ciudad y de ahondar en los datos sobre accidentes.</p>
+<p>En esta práctica vamos a utilizar los datos provenientes del portal web del <a href="https://www.zaragoza.es/sede/">Ayuntamiento de Zaragoza</a>, con la finalidad de crear un mapa de dicha ciudad y de ahondar en los datos sobre accidentes de tráfico en la ciudad. Para ello, nos vamos a valer de los <a href="https://www.zaragoza.es/sede/portal/datos-abiertos/">datos abiertos</a> que publica el consistorio, además de las librerías de Pandas y Folium para tratar y mostrar visualmente los datos.</p>
 
 </div>
 </div>
@@ -13153,7 +13153,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>En el caso de que no lo tengamos instalado, <strong>con <em>pip install folium</em> instalamos la librería</strong>, sin olvidarnos de colocar el ! para especificar que es un comando de la terminal.</p>
+<p>En el caso de que no lo tengamos instalado, <strong>con <code>pip install folium</code> instalamos la librería</strong>, sin olvidarnos de colocar el ! para especificar que es un comando de la terminal. Si tampoco tenemos Pandas instalado, hacemos lo propio con <code>pip install pandas</code>.</p>
 
 </div>
 </div>
@@ -13200,7 +13200,7 @@ Requirement already satisfied: idna&lt;3,&gt;=2.5 in /usr/lib/python3/dist-packa
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Ahora, importamos las <strong>dos librerías</strong> que necesitamos: <em>pandas</em>, por un lado (como pd) y <em>folium</em>, por otro.</p>
+<p>Ahora, importamos las <strong>dos librerías</strong> que necesitamos: <code>pandas</code>, por un lado (como <code>pd</code>) y <code>folium</code>, por otro.</p>
 
 </div>
 </div>
@@ -13229,7 +13229,7 @@ Requirement already satisfied: idna&lt;3,&gt;=2.5 in /usr/lib/python3/dist-packa
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Una vez hemos definido las variables e importado las librerías, es el turno de <strong>crear el mapa</strong> con la ubicación que queremos, que es la de la ciudad de Zaragoza. Lo hacemos con <em>folium.Map()</em> y, entre los paréntesis, especificamos la variable que creamos antes que contienen las coordenadas geográficas. Luego lo mostramos. 
+<p>Una vez hemos definido las variables e importado las librerías, es el turno de <strong>crear el mapa</strong> con la ubicación que queremos, que es la de la ciudad de Zaragoza. Lo hacemos con <code>folium.Map()</code> y, entre los paréntesis, especificamos la variable que creamos antes que contienen las coordenadas geográficas. Luego lo mostramos. 
 Esta librería usa <a href="https://www.openstreetmap.org/">OpenStreetMap</a> para generar los mapas, un proyecto de código abierto alternativo a los de las grandes corporaciones (como Google o Apple), en el que son organizaciones y usuarios los que se encargan de su mantenimiento y actualización.</p>
 
 </div>
@@ -13283,7 +13283,7 @@ Esta librería usa <a href="https://www.openstreetmap.org/">OpenStreetMap</a> pa
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Especificamos que el delimitador de los datos en el CSV del Ayuntamiento de Zaragoza no es una coma (,), sino un <strong>punto y coma</strong> (;). De esta forma, evitamos que se visualice y se analicen mal los datos al no separarse cada uno correctamente.</p>
+<p>Especificamos que el delimitador de los datos en el CSV del Ayuntamiento de Zaragoza no es una coma (<code>,</code>), sino un <strong>punto y coma</strong> (<code>;</code>). De esta forma, evitamos que se visualice y se analicen mal los datos al no separarse cada uno correctamente.</p>
 
 </div>
 </div>
