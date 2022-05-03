@@ -1,6 +1,6 @@
 # Resumen de los contenidos de la asignatura
 
-*María Cayuela. Grupo 63*
+***María Cayuela***
 
 En este apartado, haremos un resumen de lo que hemos aprendido y puesto en práctica a lo largo del cuatrimestre en Periodismo de datos: desde instalar y configurar nuestro programa de emulación de la terminal a usar `git` como software de control de versiones y vincular nuestros repositorios locales con aquellos en nuestro [GitHub](https://www.github.com/).
 
