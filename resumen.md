@@ -114,7 +114,7 @@ Para consultar la variable de entorno `$PATH`, lo hacemos con `echo $PATH`. La t
 
 ## 7. Comandos utilizados y ejemplos
 
-*Los comandos tienen la siguiente estructura: ***comando / opciones / argumentos***
+Los comandos tienen la siguiente estructura: ***comando / opciones / argumentos***
 
   - `ls [ruta del directorio]` → listar un directorio (ver qué archivos y carpetas hay en la ruta en la que estamos). Si queremos ver el directorio actual, no hace falta especificar la ruta. 
   - `cd [ruta al directorio]` → acceder a un directorio en específico. Si escribimos solo `cd`, vamos al directorio raíz. `cd ..`, nos sube un directorio. Con `cd -` nos lleva al último sitio en el que estábamos.
