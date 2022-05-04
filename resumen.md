@@ -21,7 +21,7 @@ Una vez se ha instalado, Windows nos pedirá que reiniciemos nuestro ordenador. 
 ### Cygwin: Unix en Windows
 También hemos instalado *Cygwin*, cuyo instalador ejecutable tendremos que descargar de su [web](https://www.cygwin.com/), ya que no es una herramienta nativa de Microsoft, sino un programa desarrollado por Cygnus Solutions en un primer momento, y posteriormente por [Red Hat](https://www.redhat.com/es) cuando esta compró a la primera.
 
-Cuando ejecutamos el archivo instalador de *Cygwin* (`setup-x86_64.exe`), este nos guiará por el proceso. En primer lugar, nos preguntará desde dónde queremos instalarlo, y seleccionamos la opción «Instalar desde Internet». Lo siguiente será elegir dónde instalar *Cygwin*: desde [su documentación](https://www.cygwin.com/faq.html#faq.setup.c) nos sugieren instalarla en una partición diferente a `C:\`, la raíz de Windows, pero para aquellas que solo tenemos una partición, no podemos instalarlo fuera de la raíz del sistema, así que dejamos la ruta por defecto.
+Cuando ejecutamos el archivo instalador de *Cygwin* (`setup-x86_64.exe`), este nos guiará por el proceso. En primer lugar, nos preguntará desde dónde queremos instalarlo, y seleccionamos la opción *Instalar desde Internet*. Lo siguiente será elegir dónde instalar *Cygwin*: desde [su documentación](https://www.cygwin.com/faq.html#faq.setup.c) nos sugieren instalarla en una partición diferente a `C:\`, la raíz de Windows, pero para aquellas que solo tenemos una partición, no podemos instalarlo fuera de la raíz del sistema, así que dejamos la ruta por defecto.
 
 La siguiente pantalla nos mostrará una lista con todos los *mirrors* desde donde podemos descargar *Cygwin*: los *mirrors* son servidores espejos repartidos por todo el mundo para garantizar la máxima velocidad y disponibilidad a cualquier usuario del planeta, así que podemos elegir uno cercano a España. Para ello, buscamos en la lista algún dominio `.es` o de otro país cercano, como Portugal (`.pt`), Francia (`.fr`) o Italia (`.it`).
 
@@ -114,7 +114,7 @@ Para consultar la variable de entorno `$PATH`, lo hacemos con `echo $PATH`. La t
 
 ## 7. Comandos utilizados y ejemplos
 
-*Los comandos tienen la siguiente estructura: comando / opciones / argumentos*
+*Los comandos tienen la siguiente estructura: ***comando / opciones / argumentos***
 
   - `ls [ruta del directorio]` → listar un directorio (ver qué archivos y carpetas hay en la ruta en la que estamos). Si queremos ver el directorio actual, no hace falta especificar la ruta. 
   - `cd [ruta al directorio]` → acceder a un directorio en específico. Si escribimos solo `cd`, vamos al directorio raíz. `cd ..`, nos sube un directorio. Con `cd -` nos lleva al último sitio en el que estábamos.
