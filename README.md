@@ -1,7 +1,9 @@
 # Periodismo de Datos 
 ***María Cayuela***
 
-¡Hola! Soy María Cayuela, alumna de quinto curso de Periodismo y Humanidades. Aquí encontrarás todos los documentos relacionados con el trabajo que he realizado en la asignatura Periodismo de Datos (grupo 63), impartida en la Universidad Carlos III de Madrid. Por un lado, están los archivos correspondientes con las diferentes prácticas que hemos ido realizando a lo largo del cuatrimestre; y, por otro, los documentos que se corresponden con el resumen de lo impartido en la materia y con la metodología empleada para crear este repositorio y su correspondiente web.
+¡Hola! Soy María Cayuela, alumna de quinto curso de Periodismo y Humanidades. Aquí encontrarás todos los documentos relacionados con el trabajo que he realizado en la asignatura Periodismo de Datos (grupo 63), impartida en la Universidad Carlos III de Madrid. 
+
+Por un lado, están los archivos correspondientes con las diferentes prácticas que hemos ido realizando a lo largo del cuatrimestre; y, por otro, los documentos que se corresponden con el resumen de lo impartido en la materia y con la metodología empleada para crear este repositorio y su correspondiente web.
 
 ## Índice de las prácticas realizadas
 - **[Práctica 1 Tresca](practica-1-tresca.md)**: comentario sobre el artículo *[Are social media harmful? Yes, say most Europeans, but it's complicated](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/)*.
