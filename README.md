@@ -14,7 +14,7 @@ Por un lado, están los archivos correspondientes con las diferentes prácticas 
 
 - **[Práctica 3](practica-3.md)**: documento explicativo de dos cuadernos realizados en Python 3. Ambos se pueden encontrar en este mismo repositorio. El primero de ello se corresponde con la API del COVID-19 en [*html*](python-api-covid19-pandas.html) y en [*ipynb*](python-api-covid19-pandas.ipynb). El segundo es el mapa de accidentes del municipio de Zaragoza en [*html*](api-pandas-folium.html) y en [*ipynb*](api-pandas-folium.ipynb).
 
-- **[Práctica 4](practica-4.md)**: documento explicativo de un cuaderno realizado en Python 3 sobre los datos de concentración de ozono en Arganda del Rey. Este *notebook* se puede encontrar tanto en formato [*html*](python-api-ozono-arganda-pandas.html) como [*ipynb*](python-api-ozono-arganda-pandas.ipynb).
+- **[Práctica 4](practica-4.md)**: documento explicativo de un cuaderno realizado en Python 3 sobre los datos de concentración de ozono en Arganda del Rey. Este *notebook* se puede encontrar tanto en formato [*html*](python-api-ozono-arganda-pandas.html) como [*ipynb*](python-api-ozono-arganda-pandas.ipynb). Los datos también están disponibles en [*CSV*](practica-4.csv).
 
 ## Índice de materiales
 
