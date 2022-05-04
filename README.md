@@ -17,4 +17,5 @@ Por un lado, están los archivos correspondientes con las diferentes prácticas 
 ## Índice de materiales
 
 - **[Resumen de lo impartido en la asignatura](resumen.md)**: en este documento se encuentran los apuntes tomados a lo largo del cuatrimestre, con todo lo aprendido y utilizado en la asignatura.
+
 - [**Metodología de despliegue de GitHub Pages**](metodologia.md): en este apartado, se resume el proceso a través del que he creado el repositorio que impulsa la web y la activación de GitHub Pages para mostrarla como tal.
