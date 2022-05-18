@@ -26,7 +26,7 @@ Internet se podría definir como una 'red de redes'. Internet tiene dos protocol
 
 **4. ¿Qué es la web?**
   
-En sentido estricto, la web responde a las WWW (World Wide Web) y significa 'red' o 'tetelaraña'. Se podría decir que la web es una de los servicios de red que se pueden utilizar y que se crean con los cimientos de Internet y que proporciona a los usuarios accesoi a cualquier tipo de contenido. 
+En sentido estricto, la web responde a las WWW (World Wide Web) y significa 'red' o 'tetelaraña'. Se podría decir que la web es una de los servicios de red que se pueden utilizar y que se crean con los cimientos de Internet y que proporciona a los usuarios acceso a cualquier tipo de contenido. 
 
 **5. ¿Qué significa URL?**
 
@@ -39,3 +39,18 @@ El funcionamiento cliente-servidor se realiza en nuestro propio ordenador, en el
 **7. ¿Qué relación tiene CSV con Excel?**
 
 Excel es un programa de visualización de datos tabulados, donde se pueden trabajar con estos datos y es un formato de datos XLSX, desde los últilmos años. CSV hace alusión a los valores separados por comas, que anteriormente, eran valores separados por tabuladores. Se utilizaba la separación de los tabuladores para que el propio ordenador lo traduciera como otro campo de tabla.  
+
+## Pregunta de desarrollo
+ 
+**¿Qué formatos de datos hay?**
+
+Por lo general, hay tres tipos de formatos de datos: *SV* (valores separados), *JSON* (notación de objetos JS) y XML (lenguaje de marcas extensibles). Existen diferencias entre estos tres formatos de datos.
+ 
+- *SV* tiene relación con lo explicado en la pregunta anterior. A veces se llaman directamente *CSV* aunque sus valores no sean separados por comas. Los valores separados por comas se visualizan como una tabla simple. De estos tres formatos de datos, estos son los más sencillos, aunque los menos estandarizados. Es últil controlar y saber trabajar con este formato de datos porque son los que utilizan la mayoría de los recursos disponibles en los catálogos de Datos Abiertos, como el portal de datos euroeo o el catálogo nacional.
+
+- *JSON* son más complicados que los anteriores porque dan pie a realizar operaciones más complejas, por tanto, su lectura también tiene más dificultad. Utilizan la sintatis de *JS*. No obstante, son los ficheros idóneos para aplicaciones web. 
+
+- *XML* tiene un nivel de dificultad superior a los dos formatos de datos explicados antes. Este formato también es habitual que se utilice en las administraciones públicas y es útil para organizar la información, los datos, procesos... A modo anecdótico, como hemos dicho antes, Excel utiliza un formato de datos *XLSX*; está última *X* se debe a que Microsoft Office hizo que sus formatos de archivos fueran compatibles con XML en el año 2008. 
+
+   
+ 
