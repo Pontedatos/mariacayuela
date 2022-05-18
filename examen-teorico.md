@@ -5,16 +5,16 @@
 ## Dos preguntas obligatorias 
 **¿Quién es Philip Meyer?**
 
-Philip Meyer es un profesor de origen estadounidense que se convirtió en un referente por ser uno de los que abrió el debate sobre qué terminó era más adecuado a la hora de referirnos a 'periodismo de datos'. En la actualidad, lo denominamos de esta manera, pero anteriormente, muchos expertos en el tema habían debatido sobre qué término era más preciso. En relación con este aspecto, Philip Meyer acuó el término 'periodismo de precisión'. Publicó un libro titulado *Periodismo de precisión: las nuevas fronteras de la investigación periodística*.
+Philip Meyer es un profesor de origen estadounidense que se convirtió en un referente por ser uno de los que abrió el debate sobre qué término era más adecuado a la hora de referirse a 'periodismo de datos'. En la actualidad, lo denominamos de esta manera, pero anteriormente, muchos expertos en el tema habían debatido sobre qué término era más preciso. En relación con este aspecto, Philip Meyer acuñó el término 'periodismo de precisión', que en Estados Unidos es el precedente del periodismo de datos. Publicó un libro titulado *Periodismo de precisión: las nuevas fronteras de la investigación periodística*.
  
 **¿Quién es Florence Nightingale?**
 
-Florence Nightingale fue una enfermera que nació en el siglo XIX y que estuvo durante años en la Guerra de Crimea, ayudando a los enfermos. Realizó muchas aportaciones en el campo de la medicina, la estadística y la enfermería. Pero lo que nos interesa en esta asignatura, es que sentó las bases de la estadística médica. Se dio cuenta que haciendo un uso de los datos médicos de los que disponía, ordenándolos y trabajando con ellos podía mejorar las concidiones de vida de los enfermos y salvarles la vida.  
+Florence Nightingale fue una enfermera que nació en el siglo XIX y que estuvo durante años en la Guerra de Crimea, ayudando a los enfermos. Realizó muchas aportaciones en el campo de la medicina, la estadística y la enfermería. Pero lo que nos interesa en esta asignatura, es que sentó las bases de la estadística médica. Se dio cuenta que haciendo un uso de los datos médicos de los que disponía, ordenándolos y trabajando con ellos podía mejorar las concidiones de vida de los enfermos y salvarles la vida; analizando estos datos podía conocer con más precisión el número de muertes y las causas de estas. Fue la creadora del primer modelo conceptual de enfermería.
 
 ## Bloque A 
 **1. ¿Qué medio inglés es fundamental en el periodismo y la visualización de datos?**
 
-The Guardian es el medio por referencia que sentó las bases del periodismo de datos moderno, tal y como lo conocemos en la actualidad, en el año 2008. Simon Rogers y Paul Bradshow formaban parte del equipo de Datablog, ambos consideros pioneros en este ámbito. The Guardian se ha convertido en un ejemplo a seguir en el periodismo y la visualización de datos para otros medios. 
+*The Guardian* es el medio por referencia que sentó las bases del periodismo de datos moderno, tal y como lo conocemos en la actualidad, en el año 2008. Simon Rogers y Paul Bradshow formaban parte del equipo de Datablog, ambos considerados pioneros en este ámbito. *The Guardian* se ha convertido en un ejemplo a seguir en el periodismo y la visualización de datos para otros medios. 
 
 **2. ¿De dónde viene el nombre de Jupyter?**
 
@@ -26,19 +26,19 @@ Internet se podría definir como una 'red de redes'. Internet tiene dos protocol
 
 **4. ¿Qué es la web?**
   
-En sentido estricto, la web responde a las WWW (World Wide Web) y significa 'red' o 'tetelaraña'. Se podría decir que la web es una de los servicios de red que se pueden utilizar y que se crean con los cimientos de Internet y que proporciona a los usuarios acceso a cualquier tipo de contenido. 
+En sentido estricto, la web responde a las WWW (World Wide Web) y su significado literal es 'red' o 'telaraña'. Se podría decir que la web es una de los servicios de red que se pueden utilizar y que se crean con los cimientos de Internet y que proporciona a los usuarios acceso a cualquier tipo de contenido. 
 
 **5. ¿Qué significa URL?**
 
-URL significa Localizado de Recursos Uniforme y es la dirección web. Es uno de los conceptos clave de la Web (junto con HTTP). 
+URL significa Localizador de Recursos Uniforme. La URL es la dirección web y uno de los conceptos clave de la Web, junto con HTTP. 
 
 **6. ¿Dónde se produce el funcionamiento cliente-servidor?**
 
-El funcionamiento cliente-servidor se realiza en nuestro propio ordenador, en el 'localhost; una aplicación cliente funciona con su servidor en un mismo equipo informático. 
+El funcionamiento cliente-servidor se realiza en nuestro propio ordenador, en el *localhost*. De esta manera, una aplicación cliente funciona con su servidor en un mismo equipo informático. 
 
 **7. ¿Qué relación tiene CSV con Excel?**
 
-Excel es un programa de visualización de datos tabulados, donde se pueden trabajar con estos datos y es un formato de datos XLSX, desde los últilmos años. CSV hace alusión a los valores separados por comas, que anteriormente, eran valores separados por tabuladores. Se utilizaba la separación de los tabuladores para que el propio ordenador lo traduciera como otro campo de tabla.  
+Excel es un programa de visualización de datos tabulados, donde se puede trabajar con estos datos tabulados y también es un formato de datos XLSX, desde los últilmos años. CSV hace alusión a los valores separados por comas, que anteriormente, eran valores separados por tabuladores. Se utilizaba la separación de los tabuladores para que el propio ordenador lo traduciera como otro campo de tabla.  
 
 ## Pregunta de desarrollo
  
@@ -50,7 +50,7 @@ Por lo general, hay tres tipos de formatos de datos: *SV* (valores separados), *
 
 - *JSON* son más complicados que los anteriores porque dan pie a realizar operaciones más complejas, por tanto, su lectura también tiene más dificultad. Utilizan la sintatis de *JS*. No obstante, son los ficheros idóneos para aplicaciones web. 
 
-- *XML* tiene un nivel de dificultad superior a los dos formatos de datos explicados antes. Este formato también es habitual que se utilice en las administraciones públicas y es útil para organizar la información, los datos, procesos... A modo anecdótico, como hemos dicho antes, Excel utiliza un formato de datos *XLSX*; está última *X* se debe a que Microsoft Office hizo que sus formatos de archivos fueran compatibles con XML en el año 2008. 
+- *XML* tiene un nivel de dificultad superior a los dos formatos de datos explicados antes. Este formato también es habitual que se utilice en las administraciones públicas y es útil para organizar información, datos, procesos... A modo anecdótico, como hemos dicho antes, Excel utiliza un formato de datos *XLSX*; está última *X* se debe a que Microsoft Office hizo que sus formatos de archivos fueran compatibles con XML en el año 2008. 
 
    
  
